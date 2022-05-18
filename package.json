@@ -1,6 +1,6 @@
 {
-  "name": "facerecognitionbrain",
-  "homepage": "https://roc102.github.io/smart-brain-frontend",
+  "name": "faceapp",
+  "homepage": "https://roc102.github.io/faceapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
